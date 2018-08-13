@@ -1,6 +1,7 @@
 # Amino Acid Typing by Sequence Probability for Protein NMR Backbone Assignments
 aka 'seqprob' 
 by Matt Stetz circa 2009
+university of pennsylvania
 
 ## Introduction
 This is a modified version of the original seqprob approach described by Grzesiek and Bax in 1993 (JBNMR 1993). It is based on calculating a Guassian probability density function using mean and standard deviation values from the BMRB database

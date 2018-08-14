@@ -197,8 +197,7 @@ def main(a,b,c,d,plength,sequence):
         for x in range(len(a1)):
             test1,test2=ScoreL(SEQUENCE, a1[x], b1[x])
             test3=scoreIndex(test1,test2)
-            bol=d1[x]==test3
-            if bol==True:
+            if d1[x]==test3:
                 correct+=1
             else:
                 pass
